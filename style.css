@@ -1,0 +1,16 @@
+html, body{
+    background-color: black;
+    margin: 0;
+}
+main{
+    background-color: black;
+}
+.cards{
+    color: aliceblue;
+}
+
+.card:hover{
+    margin: none;
+    background-color: rgb(254, 20, 8);
+    color: aliceblue;
+}
